@@ -1,0 +1,13 @@
+D:\Grand Circus\Test\Test\bin\Debug\netcoreapp3.1\Testing.exe
+D:\Grand Circus\Test\Test\bin\Debug\netcoreapp3.1\Testing.deps.json
+D:\Grand Circus\Test\Test\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+D:\Grand Circus\Test\Test\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+D:\Grand Circus\Test\Test\bin\Debug\netcoreapp3.1\Testing.dll
+D:\Grand Circus\Test\Test\bin\Debug\netcoreapp3.1\Testing.pdb
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.dll
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.pdb
+D:\Grand Circus\Test\Test\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
